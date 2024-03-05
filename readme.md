@@ -1,1 +1,1 @@
-這是簡單的pytorch練習
+這是簡單的pytorch練習~~~
